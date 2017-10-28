@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sketch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sketch_jar</output-path>
+    <root id="archive" name="Sketch.jar">
+      <element id="module-output" name="Sketch" />
+    </root>
+  </artifact>
+</component>
